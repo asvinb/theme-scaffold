@@ -27,6 +27,7 @@
     "babel-preset-env": "^1.6.1",
     "babel-register": "^6.26.0",
     "caniuse-db": "^1.0.30000798",
+    "d3": "^5.0.0",
     "del": "^3.0.0",
     "eslint": "^4.18.2",
     "eslint-loader": "^2.0.0",
@@ -42,6 +43,8 @@
     "postcss-import": "^10.0.0",
     "pump": "^1.0.3",
     "require-dir": "^0.3.2",
+    "vue": "^2.5.16",
+    "vuex": "^3.0.1",
     "webpack": "^4.0.1",
     "webpack-cli": "^2.0.10",
     "webpack-stream": "^3.2.0"
